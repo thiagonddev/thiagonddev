@@ -30,16 +30,16 @@ Here are some projects I’m proud of:
 <table border="0">
   <tr>
     <td valign="top">
-      <a href="https://github.com/thiagond-code/thiagond">
+      <a href="https://github.com/thiagonddev/thiagond">
         <img
-          src="https://github-stats-extended.vercel.app/api/pin/?username=thiagond-code&repo=thiagond-code%2Fthiagond&theme=apprentice"
+          src="https://github-stats-extended.vercel.app/api/pin/?username=thiagond-code&repo=thiagonddev%2Fthiagond&theme=apprentice"
           width="400"
         />
       </a>
       <br />
-      <a href="https://github.com/thiagond-code/binomial">
+      <a href="https://github.com/thiagonddev/binomial">
         <img
-          src="https://github-stats-extended.vercel.app/api/pin/?username=thiagond-code&repo=binomial&theme=apprentice"
+          src="https://github-stats-extended.vercel.app/api/pin/?username=thiagonddev&repo=binomial&theme=apprentice"
           width="400"
         />
       </a>
