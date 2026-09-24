@@ -45,7 +45,6 @@ Here are some projects I’m proud of:
       </a>
     </td>
     <br />
-    <td width="150"></td>
     <td valign="top">
       <a href="https://open.spotify.com/user/thiagond">
         <img
