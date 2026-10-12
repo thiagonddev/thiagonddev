@@ -19,7 +19,7 @@
 <br/>
 <section align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker" />
+    <img src="https://skillicons.dev/icons?i=linux,jest,docker" />
   </a>
 </section>
 
