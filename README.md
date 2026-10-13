@@ -1,6 +1,17 @@
 <img width="1790" height="575" alt="thiagondBanner" src="https://github.com/user-attachments/assets/6ba3276c-5249-437b-af29-b64bef4e3bc0" />
 
-<blockquote>
+<br />
+<br />
+
+<div align='center'>
+
+[↗ Portfólio](https://thiagond.vercel.app) · [↗ LinkedIn](https://linkedin.com/in) · [↗ E-mail](mailto:thiagond360@gmail.com)
+
+</div>
+
+<br />
+
+<blockquote align='center'>
   <h3>"<i>Knowing how to think empowers you far beyond those who know only what to think</i>"</h3>
   <h4>— Neil deGrasse Tyson</h4>
 </blockquote>
@@ -30,16 +41,16 @@ Here are some projects I’m proud of:
 <table border="0">
   <tr>
     <td valign="top">
-      <a href="https://github.com/thiagonddev/thiagond">
+      <a href="https://github.com/thiagonddev/codelabs">
         <img
-          src="https://github-stats-extended.vercel.app/api/pin/?username=thiagond-code&repo=thiagonddev%2Fthiagond&theme=apprentice"
+          src="https://github-stats-extended.vercel.app/api/pin/?username=thiagonddev&repo=codelabs&theme=apprentice"
           width="400"
         />
       </a>
       <br />
-      <a href="https://github.com/thiagonddev/binomial">
+      <a href="https://github.com/thiagonddev/thiagond">
         <img
-          src="https://github-stats-extended.vercel.app/api/pin/?username=thiagonddev&repo=binomial&theme=apprentice"
+          src="https://github-stats-extended.vercel.app/api/pin/?username=thiagonddev&repo=thiagond&theme=apprentice"
           width="400"
         />
       </a>
@@ -57,13 +68,5 @@ Here are some projects I’m proud of:
   </tr>
 </table>
 </section>
-
-
-## Contact Me
-- 📫 Email: [thiagond360@gmail.com](mailto:thiagond360@gmail.com)  
-- 💬 LinkedIn: [thiagond](https://linkedin.com/in/thiagond)  
-- 🌐 Portfolio: [thiagond.vercel.app](https://thiagond.vercel.app)
-
----
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Red+Hat+Display&size=60&pause=1000&background=5056FF35&center=true&vCenter=true&width=1790&height=200&lines=%F0%9F%91%8B+Thanks+for+coming!)](https://git.io/typing-svg)
