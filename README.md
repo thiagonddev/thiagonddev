@@ -12,7 +12,7 @@
 <br />
 
 <blockquote align='center'>
-  <h3>"<i>Knowing how to think empowers you far beyond those who know only what to think</i>"</h3>
+  <h3>“<i>Knowing how to think empowers you far beyond those who know only what to think</i>”</h3>
   <h4>— Neil deGrasse Tyson</h4>
 </blockquote>
 
