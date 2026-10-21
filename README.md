@@ -26,6 +26,7 @@
 > ### _Developer_. _Thinker_. _Explorer_.
 
 <br />
+<br />
 
 ➤ 💻 Turning ideas into something real.
 
