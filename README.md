@@ -22,7 +22,11 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,vscode,react,nextjs,vercel,nodejs,express,supabase,bash" />
+    <img src="https://skillicons.dev/icons?i=ts,vscode,jest,react,tailwind,nextjs,vercel" />
+  </a>
+  <br />
+  <a>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,bash" />
   </a>
 </div>
 
@@ -30,7 +34,7 @@
 <br/>
 <section align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,jest,docker" />
+    <img src="https://skillicons.dev/icons?i=linux,nestjs,prisma,docker,kubernetes,aws" />
   </a>
 </section>
 
@@ -44,14 +48,14 @@ Here are some projects I’m proud of:
       <a href="https://github.com/thiagonddev/codelabs">
         <img
           src="https://github-stats-extended.vercel.app/api/pin/?username=thiagonddev&repo=codelabs&theme=apprentice"
-          width="400"
+          width="375"
         />
       </a>
       <br />
       <a href="https://github.com/thiagonddev/thiagond">
         <img
           src="https://github-stats-extended.vercel.app/api/pin/?username=thiagonddev&repo=thiagond&theme=apprentice"
-          width="400"
+          width="375"
         />
       </a>
     </td>
