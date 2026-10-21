@@ -17,6 +17,25 @@
 </blockquote>
 
 <br />
+<br />
+
+## `// somewhere between logic & imagination`
+
+<br />
+
+> ### _Developer_. _Thinker_. _Explorer_.
+
+<br />
+
+➤ 💻 Turning ideas into something real.
+
+➤ 🎸 Six strings, countless stories.
+
+➤ 🧩 Finding patterns in the chaos.
+
+➤ ⚽ Where strategy meets the unexpected.
+
+<br />
 
 <h2>Skills</h2>
 <br/>
