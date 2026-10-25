@@ -58,11 +58,26 @@
   </a>
 </section>
 
-## Projects
+<br />
 
-Here are some projects I’m proud of:
+<h2>Certifications</h2>
 
-<table border="0">
+<br />
+
+<div align='center'>
+  <a href="https://www.credly.com/badges/3b243a6f-f242-4a14-80d1-9c6442c76bb1/public_url">
+    <img width="120" height="120" alt="cyber-fundamentals-ibm-badge" src="https://github.com/user-attachments/assets/a28d4678-8b55-4183-b0a6-db5dee9a2407" />
+  </a>
+</div>
+
+<br />
+<br />
+
+<h2>Projects</h2>
+
+<p>Here are some projects I’m proud of:</p>
+
+<table border="0" align='center'>
   <tr>
     <td valign="top">
       <a href="https://github.com/thiagonddev/codelabs">
