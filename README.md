@@ -50,7 +50,7 @@
   </a>
 </div>
 
-<h3>Soon to include...</h3>
+<h3>Roadmap</h3>
 <br/>
 <section align="center">
   <a href="https://skillicons.dev">
