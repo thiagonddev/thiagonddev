@@ -12,14 +12,16 @@
 <br />
 
 <blockquote align='center'>
-  <h3>“<i>Knowing how to think empowers you far beyond those who know only what to think</i>”</h3>
-  <h4>— Neil deGrasse Tyson</h4>
+  <h4>“<i>Knowing how to think empowers you far beyond those who know only what to think</i>”</h4>
+  <h5>— Neil deGrasse Tyson</h5>
 </blockquote>
 
 <br />
 <br />
 
-## `// somewhere between logic & imagination`
+### `// somewhere between logic & imagination`
+
+---
 
 <br />
 
@@ -66,7 +68,7 @@
 
 <div align='center'>
   <a href="https://www.credly.com/badges/3b243a6f-f242-4a14-80d1-9c6442c76bb1/public_url">
-    <img width="120" height="120" alt="cyber-fundamentals-ibm-badge" src="https://github.com/user-attachments/assets/a28d4678-8b55-4183-b0a6-db5dee9a2407" />
+    <img width="100" height="100" alt="cyber-fundamentals-ibm-badge" src="https://github.com/user-attachments/assets/a28d4678-8b55-4183-b0a6-db5dee9a2407" />
   </a>
 </div>
 
@@ -107,5 +109,7 @@
   </tr>
 </table>
 </section>
+
+<br />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Red+Hat+Display&size=60&pause=1000&background=5056FF35&center=true&vCenter=true&width=1790&height=200&lines=%F0%9F%91%8B+Thanks+for+coming!)](https://git.io/typing-svg)
