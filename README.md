@@ -1,3 +1,11 @@
+<div>
+
+[🇺🇸 English](README.md) · [🇧🇷 Português](README.pt-BR.md)
+
+</div>
+
+<br />
+
 <img width="1790" height="575" alt="thiagondBanner" src="https://github.com/user-attachments/assets/6ba3276c-5249-437b-af29-b64bef4e3bc0" />
 
 <br />
@@ -5,7 +13,7 @@
 
 <div align='center'>
 
-[↗ Portfólio](https://thiagond.vercel.app) · [↗ LinkedIn](https://linkedin.com/in) · [↗ E-mail](mailto:thiagond360@gmail.com)
+[↗ Portfolio](https://thiagond.vercel.app) · [↗ LinkedIn](https://linkedin.com/in) · [↗ E-mail](mailto:thiagond360@gmail.com)
 
 </div>
 
